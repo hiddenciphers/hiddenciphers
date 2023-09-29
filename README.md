@@ -1,5 +1,7 @@
 <div align="center">
-    <img src="./img/github_avatar.png" width="100" height="100" alt="Github Avatar" />
+    <a href="https://github-avatar-hiddenciphers-projects.vercel.app/">
+        <img src="./img/github_avatar.png" width="100" height="100" alt="Github Avatar" />
+    </a>
 </div>
 
 <div align="right">
