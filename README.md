@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=1000&color=29DA76EE&background=000000&center=true&width=435&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit."/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=500&color=29DA76EE&background=000000&center=true&width=435&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit."/>
 </h1>
 
 <h3 align="center">I am a passionate student, hacker & web3 enthusiast from NSW, Australia <img src="./img/rocko.png" width="70" height="70" alt="Mowgli" /></h3>
@@ -48,7 +48,7 @@ View my certificate of completion [here](./docs/bootcamp_certificate.pdf).
   </a>
   <br/><br/>
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=1000&color=29DA76EE&background=000000&center=true&width=435&lines=Knock,+knock,+Neo."/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=500&color=29DA76EE&background=000000&center=true&width=435&lines=Knock,+knock,+Neo."/>
   </div>
 </div>
 
@@ -67,14 +67,16 @@ View my certificate of completion [here](./docs/bootcamp_certificate.pdf).
   <img alt="Kaa eating my contributions" src="https://raw.githubusercontent.com/hiddenciphers/hiddenciphers/output/github-contribution-grid-snake.svg" />
 </div>
 
-<h2 align="center"><img src="./img/sheldon.png" width="70" height="70" alt="Sheldon J Plankton" /> Stats <img src="./img/pinky_&_brain.png" width="70" height="70" alt="Pink & The Brain" /></h2>
+<h2 align="center"><img src="./img/bender.png" width="50" height="80" alt="Bender" /> Stats<img src="./img/professor.png" width="80" height="80" alt="Professor" /></h2>
 <br>
 <div align=center>
-  <img src="./img/bender.png" width="70" height="100" alt="Bender" />
-  <img width=390 src="https://streak-stats.demolab.com/?user=hiddenciphers&count_private=true&theme=chartreuse-dark&border_radius=10" alt="streak stats"/><img src="./img/professor.png" width="100" height="100" alt="Professor" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=hiddenciphers&count_private=true&theme=chartreuse-dark&border_radius=10" alt="streak stats"/>
+  <br/>
   <img width=390 src="https://github-readme-stats-a10e7slel-hiddenciphers-projects.vercel.app/api?username=hiddenciphers&count_private=true&show_icons=true&theme=chartreuse-dark&rank_icon=github&border_radius=10" alt="Readme Stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-a10e7slel-hiddenciphers-projects.vercel.app/api/top-langs/?username=hiddenciphers&hide=HTML&langs_count=8&layout=compact&theme=chartreuse-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
+  <br/><br/>
+  <img src="./img/pinky_&_brain.png" width="100" height="100" alt="Pinky & The Brain" />
 </div>
 
 <br/><br/>
@@ -82,7 +84,7 @@ View my certificate of completion [here](./docs/bootcamp_certificate.pdf).
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=1000&color=29DA76EE&background=000000&center=true&width=435&lines=All+I'm+offering+is+the+truth."/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=500&color=29DA76EE&background=000000&center=true&width=435&lines=All+I'm+offering+is+the+truth."/>
     <br/>
     <img src="./img/morpheus.png" width="200" height="200" alt="Coding" />
 </h3>
