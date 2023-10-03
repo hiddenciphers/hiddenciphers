@@ -64,9 +64,7 @@ View my certificate of completion [here](./docs/bootcamp_certificate.pdf).
 
 <div align="center">
   <h2><img src="./img/mowgli.png" width="50" height="50" alt="Mowgli" />My Contributions <img src="./img/kaa.png" width="50" height="50" alt="Kaa" /></h2>
-  <br>
   <img alt="Kaa eating my contributions" src="https://raw.githubusercontent.com/hiddenciphers/hiddenciphers/output/github-contribution-grid-snake.svg" />
-  <br/>
 </div>
 
 <h2 align="center"><img src="./img/coding.png" width="50" height="50" alt="Coding" /> Stats <img src="./img/coding.png" width="50" height="50" alt="Coding" /></h2>
@@ -80,11 +78,9 @@ View my certificate of completion [here](./docs/bootcamp_certificate.pdf).
 
 <br/><br/>
 
-<hr/>
-
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=1000&color=29DA76EE&background=000000&center=true&width=435&lines=All+I'm+offering+is+the+truth."/>
-    <br/><br/>
+    <br/>
     <img src="./img/morpheus.png" width="200" height="200" alt="Coding" />
 </h3>
 
