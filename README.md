@@ -63,11 +63,11 @@ View my certificate of completion [here](./docs/bootcamp_certificate.pdf).
 <br/>
 
 <div align="center">
-  <h2><img src="./img/mowgli.png" width="70" height="70" alt="Mowgli" />My Contributions <img src="./img/kaa.png" width="70" height="70" alt="Kaa" /></h2>
+  <h2><img src="./img/mowgli.png" width="70" height="70" alt="Mowgli" />Contributions <img src="./img/kaa.png" width="70" height="70" alt="Kaa" /></h2>
   <img alt="Kaa eating my contributions" src="https://raw.githubusercontent.com/hiddenciphers/hiddenciphers/output/github-contribution-grid-snake.svg" />
 </div>
 
-<h2 align="center"><img src="./img/bender.png" width="50" height="80" alt="Bender" /> Stats<img src="./img/professor.png" width="80" height="80" alt="Professor" /></h2>
+<h2 align="center"><img src="./img/bender_copy.png" width="50" height="80" alt="Bender" /> Statistics <img src="./img/bender.png" width="50" height="80" alt="Bender" /></h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=hiddenciphers&count_private=true&theme=chartreuse-dark&border_radius=10" alt="streak stats"/>
