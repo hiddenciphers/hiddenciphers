@@ -79,14 +79,9 @@ View my certificate of completion [here](./docs/bootcamp_certificate.pdf).
   <img src="./img/pinky_&_brain.png" width="100" height="100" alt="Pinky & The Brain" />
 </div>
 
-<br/><br/>
-
 <hr/>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=500&color=29DA76EE&background=000000&center=true&width=435&lines=All+I'm+offering+is+the+truth."/>
     <br/>
-    <img src="./img/morpheus.png" width="200" height="200" alt="Coding" />
 </h3>
-
-<br/>
