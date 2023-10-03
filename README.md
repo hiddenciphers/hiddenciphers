@@ -85,7 +85,7 @@ View my certificate of completion [here](./docs/bootcamp_certificate.pdf).
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=1000&color=29DA76EE&background=000000&center=true&vCenter=true&width=435&lines=All+I'm+offering+is+the+truth.;Nothing more."/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=1000&color=29DA76EE&background=000000&center=true&width=435&lines=All+I'm+offering+is+the+truth."/>
     <br/><br/>
     <img src="./img/morpheus.png" width="200" height="200" alt="Coding" />
 </h3>
