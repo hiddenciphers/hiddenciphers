@@ -41,15 +41,12 @@ View my certificate of completion [here](./docs/bootcamp_certificate.pdf).
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://hiddenciphers.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Discord-7B68EE?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/Discord-7B68EE?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
   <a href="https://github-avatar-hiddenciphers-projects.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-00CED1?style=for-the-badge&logo=files&logoColor=white" target="_blank" />
-     <br/><br/>
-     <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=1000&color=29DA76EE&background=000000&center=true&width=435&lines=Knock,+ knock, Neo."/>
-     </h1>
   </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=1000&color=29DA76EE&background=000000&center=true&vCenter=true&width=435&lines=Knock,+knock, Neo."/>
 </div>
 
  <hr/>
@@ -78,9 +75,9 @@ View my certificate of completion [here](./docs/bootcamp_certificate.pdf).
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=hiddenciphers&count_private=true&theme=chartreuse-dark&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-a10e7slel-hiddenciphers-projects.vercel.app/api?username=hiddenciphers&count_private=true&show_icons=true&theme=chartreuse-dark&rank_icon=github&border_radius=10" alt="Readme Stats" />
+  <img width=390 src="https://github-readme-stats-a10e7slel-hiddenciphers-projects.vercel.app/api?username=hiddenciphers&count_private=true&show_icons=true&theme=chartreuse-dark&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-a10e7slel-hiddenciphers-projects.vercel.app/api/top-langs/?username=hiddenciphers&hide=HTML&langs_count=8&layout=compact&theme=chartreuse-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
+  <img width=325 align="center" src="https://github-readme-stats-a10e7slel-hiddenciphers-projects.vercel.app/api/top-langs/?username=hiddenciphers&hide=HTML&langs_count=8&layout=compact&theme=chartreuse-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -88,11 +85,8 @@ View my certificate of completion [here](./docs/bootcamp_certificate.pdf).
 <hr/>
 
 <h3 align="center">
-<img src="./img/morpheus.png" width="200" height="200" alt="Morpheus" />
-<br/><br/>
-    <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=1000&color=29DA76EE&background=000000&center=true&width=435&lines=Knock,+ knock, Neo."/>
-     </h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=1000&color=29DA76EE&background=000000&center=true&vCenter=true&width=435&lines=All+I'm+offering+is+the+truth.;Nothing more."/>
+    <br/><br/>
 </h3>
 
 <br/>
