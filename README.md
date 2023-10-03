@@ -52,8 +52,6 @@ View my certificate of completion [here](./docs/bootcamp_certificate.pdf).
   </div>
 </div>
 
- <hr/>
- 
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
@@ -63,7 +61,6 @@ View my certificate of completion [here](./docs/bootcamp_certificate.pdf).
 </div>
 
 <br/>
-<hr/>
 
 <div align="center">
   <h2><img src="./img/mowgli.png" width="50" height="50" alt="Mowgli" />My Contributions <img src="./img/kaa.png" width="50" height="50" alt="Kaa" /></h2>
@@ -71,8 +68,6 @@ View my certificate of completion [here](./docs/bootcamp_certificate.pdf).
   <img alt="Kaa eating my contributions" src="https://raw.githubusercontent.com/hiddenciphers/hiddenciphers/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
-
-<hr/>
 
 <h2 align="center"><img src="./img/coding.png" width="50" height="50" alt="Coding" /> Stats <img src="./img/coding.png" width="50" height="50" alt="Coding" /></h2>
 <br>
