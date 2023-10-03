@@ -46,9 +46,9 @@ View my certificate of completion [here](./docs/bootcamp_certificate.pdf).
   <a href="https://github-avatar-hiddenciphers-projects.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-00CED1?style=for-the-badge&logo=files&logoColor=white" target="_blank" />
      <br/><br/>
-     <h3 align="center">
+     <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=1000&color=29DA76EE&background=000000&center=true&width=435&lines=Knock,+ knock, Neo."/>
-     </h3>
+     </h1>
   </a>
 </div>
 
@@ -90,9 +90,9 @@ View my certificate of completion [here](./docs/bootcamp_certificate.pdf).
 <h3 align="center">
 <img src="./img/morpheus.png" width="200" height="200" alt="Morpheus" />
 <br/><br/>
-    <h3 align="center">
+    <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=1000&color=29DA76EE&background=000000&center=true&width=435&lines=Knock,+ knock, Neo."/>
-     </h3>
+     </h1>
 </h3>
 
 <br/>
