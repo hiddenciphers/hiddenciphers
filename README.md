@@ -42,7 +42,7 @@
   <br/>
   <img width=390 src="https://github-readme-stats-a10e7slel-hiddenciphers-projects.vercel.app/api?username=hiddenciphers&count_private=true&show_icons=true&theme=chartreuse-dark&rank_icon=github&border_radius=10" alt="Readme Stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-a10e7slel-hiddenciphers-projects.vercel.app/api/top-langs/?username=hiddenciphers&hide=HTML&langs_count=8&layout=compact&theme=chartreuse-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
+  <img width=390 align="center" src="https://github-readme-stats-a10e7slel-hiddenciphers-projects.vercel.app/api/top-langs/?username=hiddenciphers&hide=HTML&langs_count=8&layout=compact&theme=chartreuse-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
   <br/><br/>
   <img src="./img/emerald.png" width="100" height="100" alt="Neo" />
 </div>
