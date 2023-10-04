@@ -8,6 +8,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=500&color=29DA76EE&background=000000&center=true&width=435&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.;Knock,+knock,+Neo."/>
 </div>
 
+<br/>
+
 <div align="center"> 
   <a href="mailto:psolvyns@protonmail.com">
     <img src="https://img.shields.io/badge/Protonmail-333333?style=for-the-badge&logo=proton&logoColor=darkpurple" />
