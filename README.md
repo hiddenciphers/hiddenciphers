@@ -44,7 +44,12 @@
   <br/>
   <img width=390 align="center" src="https://github-readme-stats-a10e7slel-hiddenciphers-projects.vercel.app/api/top-langs/?username=hiddenciphers&hide=HTML&langs_count=8&layout=compact&theme=chartreuse-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
   <br/><br/>
-  <img src="./img/emerald.png" width="100" height="100" alt="Neo" />
+</div>
+
+<div align="center">
+    <a href="https://www.github.com/hiddenciphers">
+        <img src="./img/my_hybrid_github_avatar.png" width="50" height="50" alt="Github Avatar" />
+    </a>
 </div>
 
 <hr/>
