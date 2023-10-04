@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=500&color=29DA76EE&background=000000&center=true&width=435&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.;Knock,+ knock,+ Neo."/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=500&color=29DA76EE&background=000000&center=true&width=435&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.;Knock,+ Knock,+ Neo."/>
 </h1>
 
 <div align="center"> 
@@ -54,5 +54,3 @@
 </div>
 
 <hr/>
-
-
