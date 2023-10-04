@@ -48,8 +48,6 @@
 
 <div align="center">
     <a href="https://www.github.com/hiddenciphers">
-        <img src="./img/my_hybrid_github_avatar.png" width="100" height="100" alt="Github Avatar" />
+        <img src="./img/my_hybrid_github_avatar.png" width="100" height="100" alt="Hybrid Github Avatar" />
     </a>
 </div>
-
-<hr/>
