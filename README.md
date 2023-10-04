@@ -22,7 +22,7 @@
      <img src="https://img.shields.io/badge/Portfolio-00CED1?style=for-the-badge&logo=files&logoColor=white" target="_blank" />
   </a>
 
-<br/><br/>
+<br/>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,solidity,javascript,html,css,md" /><br>
@@ -43,7 +43,7 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-a10e7slel-hiddenciphers-projects.vercel.app/api/top-langs/?username=hiddenciphers&hide=HTML&langs_count=8&layout=compact&theme=chartreuse-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs" />
   <br/><br/>
-  <img src="./img/neo.png" width="800" height="200" alt="Neo" />
+  <img src="./img/neo.png" width="800" height="400" alt="Neo" />
 </div>
 
 <hr/>
