@@ -4,6 +4,10 @@
     </a>
 </div>
 
+<div align="right">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=hiddenciphers.hiddenciphers" />
+</div>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=500&color=29DA76EE&background=000000&center=true&width=435&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.;Knock,+ knock,+ Neo."/>
 </h1>
@@ -33,7 +37,7 @@
 <br/>
 
 <div align="center">
-  <h2><img src="./img/kaa.png" width="70" height="70" alt="Kaa" /> Contributions<img src="./img/mowgli.png" width="70" height="70" alt="Mowgli" /></h2>
+  <h2><img src="./img/kaa.png" width="70" height="70" alt="Kaa" /> Contributions<img src="./img/mowgli.png" width="80" height="80" alt="Mowgli" /></h2>
   <img alt="Kaa eating my contributions" src="https://raw.githubusercontent.com/hiddenciphers/hiddenciphers/output/github-contribution-grid-snake.svg" />
 </div>
 
