@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github-avatar-hiddenciphers-projects.vercel.app/">
-        <img src="./img/github_avatar.png" width="100" height="100" alt="Github Avatar" />
+        <img src="./img/my_hybrid_github_avatar.png" width="100" height="100" alt="Github Avatar" />
     </a>
 </div>
 
@@ -27,8 +27,8 @@
 <h2 align="center"></h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,solidity,javascript,html,css,md" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,git,ipfs,postgres,tensorflow,vercel,stackoverflow" /><br>
-    <img src="https://skillicons.dev/icons?i=github,replit,linkedin,discord" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,react,nextjs,gsap" /><br>
+    <img src="https://skillicons.dev/icons?i=github,replit,vercel,stackoverflow,linkedin,discord" />
 </div>
 
 <div align="center">
