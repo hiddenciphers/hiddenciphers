@@ -27,7 +27,7 @@
 <h2 align="center"></h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,solidity,javascript,html,css,md" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,git,react,nextjs,gsap" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,git,react,nextjs,greensock" /><br>
     <img src="https://skillicons.dev/icons?i=github,replit,vercel,stackoverflow,linkedin,discord" />
 </div>
 
