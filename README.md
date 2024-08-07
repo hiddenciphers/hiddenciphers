@@ -26,7 +26,7 @@
 
 <h2 align="center"></h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,solidity,javascript,html,css,md" /><br>
+    <img src="https://skillicons.dev/icons?i=md,html,css,javascript,python,solidity" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,git,react,nextjs,nodejs" /><br>
     <img src="https://skillicons.dev/icons?i=github,replit,vercel,stackoverflow,linkedin,discord" />
 </div>
